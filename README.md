@@ -1,12 +1,12 @@
 
 <h1 align="center" id="Template">
-  Drowsiness Detector
+  Drowsiness Detection
 </h1>
 
-<h3 align="center">Drowsiness detector using OpenCV, Python and Dlib</h3>
+<h3 align="center">Drowsiness detection using OpenCV, Python and Dlib</h3>
 
 ## Information
-Drowsiness detector using OpenCV, Python and Dlib
+Drowsiness detection using OpenCV, Python and Dlib
 
 ## Prerequisites
 Make sure to have the following libraries installed in your Python environment:
@@ -20,4 +20,9 @@ Make sure to have the following libraries installed in your Python environment:
 
 ## Run
 `Drowsiness_Detection.py`
+
+## Enhancement Options
+* Implementing a telegram bot which notifies admin as well as other users.
+* Modifying the facial contours and using more advanced DAT(Digital Audio Tape) file.
+  
 
